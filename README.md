@@ -145,19 +145,19 @@ npm run clean
 
 ## Screenshots
 
-![Landing Page Screenshot 1](screenshots/screenshot_1.png)
-![Landing Page Screenshot 2](screenshots/screenshot_2.png)
-![Landing Page Screenshot 3](screenshots/screenshot_3.png)
-![Landing Page Screenshot 4](screenshots/screenshot_4.png)
-![Landing Page Screenshot 5](screenshots/screenshot_5.png)
-![Landing Page Screenshot 6](screenshots/screenshot_6.png)
-![Landing Page Screenshot 7](screenshots/screenshot_7.png)
-![Landing Page Screenshot 8](screenshots/screenshot_8.png)
-![Landing Page Screenshot 9](screenshots/screenshot_9.png)
-![Landing Page Screenshot 10](screenshots/screenshot_10.png)
-![Landing Page Screenshot 11](screenshots/screenshot_11.png)
-![Landing Page Screenshot 12](screenshots/screenshot_12.png)
-![Landing Page Screenshot 13](screenshots/screenshot_13.png)
+![Mobile App Screenshot 1](screenshots/screenshot_1.png)
+![Mobile App Screenshot 2](screenshots/screenshot_2.png)
+![Mobile App Screenshot 3](screenshots/screenshot_3.png)
+![Mobile App Screenshot 4](screenshots/screenshot_4.png)
+![Mobile App Screenshot 5](screenshots/screenshot_5.png)
+![Mobile App Screenshot 6](screenshots/screenshot_6.png)
+![Mobile App Screenshot 7](screenshots/screenshot_7.png)
+![Mobile App Screenshot 8](screenshots/screenshot_8.png)
+![Mobile App Screenshot 9](screenshots/screenshot_9.png)
+![Mobile App Screenshot 10](screenshots/screenshot_10.png)
+![Mobile App Screenshot 11](screenshots/screenshot_11.png)
+![Mobile App Screenshot 12](screenshots/screenshot_12.png)
+![Mobile App Screenshot 13](screenshots/screenshot_13.png)
 
 ---
 
